@@ -7,4 +7,5 @@
  * Time: 0:11
  */
 die("##");
+die("##");
 phpinfo();
